@@ -13,13 +13,16 @@ extract the JSON file and run the following to Notebook to see your HeatMap :)
 Stop running current kernel running in terminal with ctrl+c
 
 Continuing in terminal I then ran:
-
+```
 jupyter nbextension enable --py gmaps
-
+```
 Output from terminal:
-
+```
 Enabling notebook extension jupyter-gmaps/extension...
       - Validating: OK
+```
 started a new notebook kernel server by typing in Terminal
 
+```
 jupyter notebook
+```

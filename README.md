@@ -1,10 +1,10 @@
 # gmapLocationHeatmap
 
-
 This Notebook helps you to validate ones personal GMAP history. 
+
 # Howto Download your GMAP data
 
-To downlaod your gmap data goto --> https://takeout.google.com/settings/takeout?pli=1
+To download your gmap data goto --> https://takeout.google.com/settings/takeout?pli=1
 
 extract the JSON file and run the following to Notebook to see your HeatMap :)
 
